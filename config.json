@@ -1,0 +1,5 @@
+{
+    "sourceFolder":"src/arduino",
+    "destinationFoldder":"src/dest",
+    "manifest":"src/manifest.json"
+}
